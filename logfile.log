@@ -1,0 +1,6 @@
+logfile:2025/12/03 21:26:44 log1.go:49: Error: failed to load file: students.json open students.json: The system cannot find the file specified.
+logfile:2025/12/03 22:39:19 log1.go:63: Info: student added ->Name:akash Age:20 Grade:A
+logfile:2025/12/03 22:39:19 log1.go:104: Succes students akash Added:
+logfile:2025/12/03 22:39:27 log1.go:66: Info: listing all 1 students
+logfile:2025/12/03 22:39:32 log1.go:41: success: saved 1 students to be students.json
+logfile:2025/12/03 22:39:32 log1.go:113: program excited by user
